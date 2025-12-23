@@ -1,2 +1,1 @@
-# README.md
-#👋 Hi, I'm Shreya Jariwala 
+# 👋 Hi, I'm Shreya 
